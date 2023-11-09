@@ -14,8 +14,8 @@ Comment faire?
 - Connectez votre module via USB
 - Exécutez "Xloader.exe"
 - Dans la rubrique "Hex file", séléctionnez la version du micrologiciel que vous voulez installer (.hex) en fonction du module concerné (ADF, ATC, COMM ou NAV)
-- Dans la rubrique "Device", séléctionnez le dernier choix du menu déroulannt à savoir "EEFIS/NAV/COMM/ATC/ADF V2"
-- Dans la rubrique "COM port", séléctionnez le port usb sur leqsuel est connecté le module concerné (!! ne vous trompez pas !!)
+- Dans la rubrique "Device", séléctionnez le dernier choix du menu déroulant à savoir "EEFIS/NAV/COMM/ATC/ADF V2"
+- Dans la rubrique "COM port", séléctionnez le port usb sur lequel est connecté le module concerné (!! ne vous trompez pas !!)
 - Dans la rubrique "Baud rate", laissez la valeur par défaut qui devrait être "115200"
 - Cliquez sur "Upload" et quelques secondes plus tard, un message du style "9534 bytes uploaded" va apparaître
 - La mise à jour du micrologiciel est terminée! Vous pouvez quitter "Xloader". Le module sera reconnu et compatbile sur SPADNEXT
